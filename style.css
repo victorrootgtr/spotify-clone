@@ -31,13 +31,14 @@ body{
     top: 30px;
     font-weight: bolder;
     text-align: right;
-    font-size: 16px;
+    font-size: 14px;
     font-family: 'Gotham', sans-serif;
     color: white;;
     
 }
 
 a:link{
+    padding: 10px;
     color: white;
     text-decoration: none;
     
@@ -81,10 +82,10 @@ p{
 .background{
     background-image: url(https://www-growth.scdn.co/static/home/bursts.svg);
     background-size: 160%;
-    background-position: 46% 4%;
+    background-position: 44% 4%;
     -webkit-box-pack: center;
     justify-content: center;
-    min-height: 871px;
+    min-height: 890px;
 }
 
 h2{
