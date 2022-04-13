@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0 ;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #2941AB;
+
+}
+
+#top-pagina{
+    color: white;
+    padding: 40px;
+    background:black;
+}
+
+#logo{
+    padding: 10px;
+    position: absolute;
+    left: 372px;
+    top: 8px;
+    width: auto;
+    background: black;
+}
+
+.links{
+    display: block;
+    position: absolute;
+    right: 550px;
+    top: 30px;
+    font-weight: bolder;
+    text-align: right;
+    font-size: 16px;
+    font-family: 'Gotham', sans-serif;
+    color: white;;
+    
+}
+
+a:link{
+    color: white;
+    text-decoration: none;
+    
+}
+
+a:visited{
+    color: white;
+
+}
+
+a:hover{
+    color: #1ed760;
+}
+
+
+#frase-principal{
+    position: absolute;
+    top: 130px;
+    margin: 200px;
+    left: 310px;
+    font-size: 94px;
+    font-family: 'Gotham', sans-serif;
+    color: #1ed760;
+    letter-spacing: -10px;
+    font-weight: bold;
+}
+
+p{
+    position: absolute;
+    top: 498px;
+    margin: 200px;
+    left: 420px;
+    font-size: 18px;
+    font-family: 'Gotham', sans-serif;
+    color: #1ed760;
+    text-align: center;
+    letter-spacing: -3;
+    font-weight: bold;
+}
+
+.background{
+    background-image: url(https://www-growth.scdn.co/static/home/bursts.svg);
+    background-size: 160%;
+    background-position: 46% 4%;
+    -webkit-box-pack: center;
+    justify-content: center;
+    min-height: 871px;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Gotham', sans-serif;
+}
+
+
+
+
+
+
+
+
